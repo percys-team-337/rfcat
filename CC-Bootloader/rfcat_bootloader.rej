@@ -1,0 +1,8 @@
+--- CC-Bootloader/rfcat_bootloader
++++ CC-Bootloader/rfcat_bootloader
+@@ -1,5 +1,4 @@
+ #!/usr/bin/env python3
+-from __future__ import print_function
+ 
+ import sys
+ import time

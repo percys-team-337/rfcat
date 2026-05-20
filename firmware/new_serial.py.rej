@@ -1,0 +1,8 @@
+--- firmware/new_serial.py
++++ firmware/new_serial.py
+@@ -1,5 +1,4 @@
+ #!/usr/bin/env python3
+-from __future__ import print_function
+ import sys
+ 
+ sn_header = """// Serial number
